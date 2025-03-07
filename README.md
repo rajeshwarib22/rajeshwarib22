@@ -8,6 +8,7 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast cur
 - 🤔 I’m looking for help with optimizing performance in Next.js and Firebase queries.
 - 💬 Ask me about React, Java, Firebase, UX research, or integrating AI into products.
 - 📫 How to reach me:
+
   Email: [Gmail](mailto:bhirudrajeshwari@gmail.com)  
   LinkedIn: [linkedin.com/in/rajeshwari-bhirud](https://www.linkedin.com/in/rajeshwari-bhirud/)  
   Portfolio: [Portfolio/RajeshwariBhirud](https://portfolio-rb-nu.vercel.app/)
