@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**rajeshwarib22/rajeshwarib22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello and thanks for visiting my Github Profile
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
