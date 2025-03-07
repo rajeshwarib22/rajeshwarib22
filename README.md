@@ -1,4 +1,4 @@
-## 👋 Hello and thanks for visiting my Github Profile
+## 👋 Hello and thanks for visiting my [Github Profile](https://github.com/rajeshwarib22)
 
 I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast currently pursuing my Master’s in Information Systems at Pace University (graduating May 2025). I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
