@@ -1,5 +1,15 @@
 ## 👋 Hello and thanks for visiting my [Github Profile](https://github.com/rajeshwarib22)
 
+## 🚀 Tech Stack  
+**Languages:** JavaScript, Java, Python, SQL, PL/SQL  
+**Frontend:** HTML, CSS, Bootstrap, AngularJS, ReactJS  
+**Backend:** Spring, Spring Boot, REST API, Firebase  
+**Database:** MySQL, Oracle, Firebase  
+**Version Control:** Git, GitHub, SVN Tortoise  
+**Tools & IDEs:** SQL Developer, Spring Tool Suite (STS), VS Code, Eclipse, Postman, MySQL Workbench  
+**Architecture:** Microservices  
+
+
 I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast currently pursuing my Master’s in Information Systems at Pace University (graduating May 2025). I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
 - 🔭 I’m currently working on a developing Full Stack Application.
