@@ -3,7 +3,7 @@
 ## 🚀 Tech Stack  
 **Languages:** Java, SQL, PL/SQL, JavaScript, Python,   
 **Frontend:** HTML, CSS, Bootstrap, AngularJS, ReactJS  
-**Backend:** Spring, Spring Boot, REST API, Firebase  
+**Backend:** Spring, Spring Boot, REST API, Firebase, Node.js
 **Database:** MySQL, Oracle, Firebase  
 **Version Control:** Git, GitHub, SVN Tortoise  
 **Tools & IDEs:** SQL Developer, Spring Tool Suite (STS), VS Code, Eclipse, Postman, MySQL Workbench, Figma, Anaconda
