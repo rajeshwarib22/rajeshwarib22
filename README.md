@@ -32,15 +32,6 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast cur
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love working on innovative projects that blend AI, design, and engineering!
 
-Technical Skills:
 
-Programming Languages:  JavaScript, Java (including OOP), Java Frameworks (Spring, Spring Boot), SQL, PL/SQL, Python 
-Database: MySQL, Oracle, Firebase |WEB: HTML, CSS, Bootstrap, JS Framework (AngularJS, ReactJS)  
-Version Control:  Git, GitHub, SVN Tortoise 
-Tool/ Web Server: SQL Developer, Spring Tool Suite (STS), Visual Studio Code (VS Code), Eclipse, Postman, MySQL 
-Workbench, Apache Tomcat, Sun ONE Web Server, Maven
-Architecture: Microservices
-
-
-Let’s connect and build something amazing! 🚀
+[LinkedIm](https://www.linkedin.com/in/rajeshwari-bhirud/)  :  Let’s connect and build something amazing! 🚀
 
