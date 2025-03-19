@@ -32,6 +32,7 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast cur
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love working on innovative projects that blend AI, design, and engineering!
 
+Lets connect and build something amazing! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwari-bhirud/)
 
-[Let’s connect](https://www.linkedin.com/in/rajeshwari-bhirud/)  and build something amazing! 🚀
 
