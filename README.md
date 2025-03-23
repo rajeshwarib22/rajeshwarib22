@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1hZnRxaDRwN2U0OHFvdnZrd3cxZnoycGZqd2o4ZGh1c25wb2ZncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2R0c1JmNRFAABz9u/giphy.gif" width="50"> 
+  Hi, I'm Rajeshwari! <br/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E44D26&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver" />
+</h1>
+
 ## 👋 Hello and thanks for visiting my [Github Profile](https://github.com/rajeshwarib22)
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rajeshwarib22&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
