@@ -40,7 +40,9 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast cur
 - ⚡ Fun fact: I love working on innovative projects that blend AI, design, and engineering!
 
 
-  ## 🤝 Lets Connect
+
+
+## 🤝 Lets Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/rajeshwari-bhirud">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
