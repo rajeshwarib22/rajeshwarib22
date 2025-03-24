@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50"> 
   Hi, I'm Rajeshwari! <br/> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E44D26&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+UI%2FUX+Designer+%7C+Java+Developer;AI+Explorer+%7C+Open-Source+Contributor+%7C+Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+UI%2FUX+Designer+%7C+Java+Developer;AI+Explorer+%7C+Open-Source+Contributor+%7C+Lifelong+Learner" />
+
 
 </h1>
 
