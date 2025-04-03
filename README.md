@@ -13,7 +13,7 @@
 Recent Projects:
 
 [PantryPulse](https://pantry-tracker-system.vercel.app/)  :   ReactJs, Javascript, Firebase <br>
-PantryPulse is a simple pantry tracking systems thats helps you manage your groceries efficiently. It is developed by using ReactJS and  Firebase incorporating FirebaseAuth for user authentocation. It manages its CI/CD workflow by utilizing Github and Vercel. 
+PantryPulse is a simple pantry tracking systems thats helps you manage your groceries efficiently. It is developed by using ReactJS and  Firebase incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow by utilizing Github and Vercel. 
 
 💻 Tech Stack  
 **Languages:** Java, SQL, PL/SQL, JavaScript, Python,   
