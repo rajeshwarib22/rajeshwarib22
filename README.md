@@ -15,8 +15,13 @@ Recent Projects:
 [PantryPulse](https://pantry-tracker-system.vercel.app/)  :   ReactJs, Javascript, Firebase <br>
 PantryPulse is a simple pantry tracking system that helps you manage your groceries efficiently. It is developed using ReactJS and Firebase, incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow by utilizing GitHub and Vercel.
 
+[WholesomeBite](https://github.com/rajeshwarib22/WholesomeBite-UI-UX-project) – UI/UX Project : Design Thinking,  User Research,  User Interviews, Low-High Fidelity Prototyping, Usability Testing, Figma, MarvelApp, Miro<br>
+WholesomeBite is a user-centered mobile app project focused on promoting healthier eating habits through intuitive design. Built using structured UX processes and tools like Figma and MarvelApp, the project involved proposal creation, user research, persona development, wireframing, and usability testing. Key features include personalized meal planning, recipe discovery, social engagement, and gamification. The final high-fidelity prototype was refined through real user feedback to enhance usability and impact.
+
+
 [Inventory Management System](https://github.com/rajeshwarib22/InventoryManagementSystem)  : MySQL, SQL, MySQL Workbench <br>
 Inventory Management System is a basic database project to manage electronic product inventory efficiently. Built using MySQL and MySQL Workbench, it features ER modeling, relational schema design, and data manipulation through SQL queries. Data is imported via CSV, and queries are executed for stock analysis and monthly sales tracking.
+
 
 
 💻 Tech Stack  
