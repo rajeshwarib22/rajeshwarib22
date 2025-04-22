@@ -15,7 +15,7 @@ Recent Projects:
 [PantryPulse](https://pantry-tracker-system.vercel.app/)  :   ReactJs, Javascript, Firebase <br>
 PantryPulse is a simple pantry tracking system that helps you manage your groceries efficiently. It is developed using ReactJS and Firebase, incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow by utilizing GitHub and Vercel.
 
-[Inventory Management System]([https://pantry-tracker-system.vercel.app/](https://github.com/rajeshwarib22/InventoryManagementSystem))  : MySQL, SQL, MySQL Workbench <br>
+[Inventory Management System]([https://pantry-tracker-system.vercel.app/](https://github.com/rajeshwarib22/InventoryManagementSystem)  : MySQL, SQL, MySQL Workbench <br>
 Inventory Management System is a basic database project to manage electronic product inventory efficiently. Built using MySQL and MySQL Workbench, it features ER modeling, relational schema design, and data manipulation through SQL queries. Data is imported via CSV, and queries are executed for stock analysis and monthly sales tracking.
 
 
