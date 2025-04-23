@@ -16,7 +16,7 @@ Recent Projects:
 PantryPulse is a simple pantry tracking system that helps you manage your groceries efficiently. It is developed using ReactJS and Firebase, incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow by utilizing GitHub and Vercel.
 
 [WholesomeBite](https://github.com/rajeshwarib22/WholesomeBite-UI-UX-project) – UI/UX Project : Design Thinking,  User Research,  User Interviews, Low-High Fidelity Prototyping, Usability Testing, Figma, MarvelApp, Miro<br>
-WholesomeBite is a user-centered mobile app project focused on promoting healthier eating habits through intuitive design. Built using structured UX processes and tools like Figma and MarvelApp, the project involved proposal creation, user research, persona development, wireframing, and usability testing. Key features include personalized meal planning, recipe discovery, nutrtion chart and shopping chart direct from receipe ingredients. The final high-fidelity prototype was refined through real user feedback to enhance usability and impact.
+WholesomeBite is a user-centered mobile app project focused on promoting healthier eating habits through intuitive design. Built using structured UX processes and tools like Figma and MarvelApp, the project involved proposal creation, user research, persona development, wireframing, and usability testing. Key features include personalized meal planning, recipe discovery, nutrtion chart and shopping cart direct from receipe ingredients. The final high-fidelity prototype was used to get real user feedback to enhance usability and impact.
 
 
 [Inventory Management System](https://github.com/rajeshwarib22/InventoryManagementSystem)  : MySQL, SQL, MySQL Workbench <br>
