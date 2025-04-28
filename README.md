@@ -15,7 +15,10 @@ Recent Projects:
 [PantryPulse](https://pantry-tracker-system.vercel.app/)  :   ReactJs, Javascript, Firebase <br>
 PantryPulse is a simple pantry tracking system that helps you manage your groceries efficiently. It is developed using ReactJS and Firebase, incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow by utilizing GitHub and Vercel.
 
-[WholesomeBite](https://github.com/rajeshwarib22/WholesomeBite-UI-UX-project) – UI/UX Project : Design Thinking,  User Research,  User Interviews, Low-High Fidelity Prototyping, Usability Testing, Figma, MarvelApp, Miro<br>
+[FoodLoop](https://github.com/rajeshwarib22/Zero-Hunger-FoodLoop-Project) - UX Research, Site Maps, Whimsical, Figma, Landbot.io, Wizard of Oz experiement, Low-High Fidelity Prototyping<br>
+Foodloop is a mobile app project created to tackle food insecurity by connecting surplus food providers with individuals in need. It integrates chatbot assistance on landobot.io, food donation matching, secure user authentication, and interactive mapping of surplus donors. Built using tools like Whimsical, Landbot and Figma, the project went through detailed UX research, sitemap design for rival apps, Wizard of Oz experimentation, and both low- and high-fidelity prototyping to create an intuitive and impactful platform.
+
+[WholesomeBite](https://github.com/rajeshwarib22/WholesomeBite-UI-UX-project) – UI/UX Project, Design Thinking,  User Research,  User Interviews, Low-High Fidelity Prototyping, Usability Testing, Figma, MarvelApp, Miro<br>
 WholesomeBite is a user-centered mobile app project focused on promoting healthier eating habits through intuitive design. Built using structured UX processes and tools like Figma and MarvelApp, the project involved proposal creation, user research, persona development, wireframing, and usability testing. Key features include personalized meal planning, recipe discovery, nutrtion chart and shopping cart direct from receipe ingredients. The final high-fidelity prototype was used to get real user feedback to enhance usability and impact.
 
 
