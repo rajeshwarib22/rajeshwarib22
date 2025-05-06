@@ -29,7 +29,7 @@ Inventory Management System is a basic database project to manage electronic pro
 
 💻 Tech Stack  
 **Languages:** Java, SQL, PL/SQL, JavaScript, Python,   
-**Frontend:** HTML, CSS, Bootstrap, AngularJS, ReactJS  
+**Frontend:** HTML, CSS, TailwindCSS, Bootstrap, AngularJS, ReactJS  
 **Backend:** Spring, Spring Boot, REST API, Firebase, Node.js
 **Database:** MySQL, Oracle, Firebase  
 **Version Control:** Git, GitHub, SVN Tortoise  
