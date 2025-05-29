@@ -52,10 +52,25 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast cur
 - ⚡ Fun fact: I love working on innovative projects that blend AI, design, and engineering!
 
 
+## 📜 Certifications & Virtual Job Simulations
+
+### 🎓 Certifications
+
+- **[Google Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/specialization/PNQ63CX6EZBJ)** – Google via Coursera (Oct 2024)  
+- **[DevOps Foundations: CI/CD](https://www.linkedin.com/learning/certificates/688b42aed28ccc19f84f1cc6716f561dfd6c2a283dc7ba801b88c412f40a9f4c?u=57121697)** – LinkedIn Learning (Jan 2024)  
+- **[Agile Software Development](https://www.coursera.org/account/accomplishments/verify/KDT5JXCNBMX4)** – University of Minnesota via Coursera (May 2021)  
+
+### 🧑‍💻 Virtual Job Simulations
+
+- **[GenAI Job Simulation – BCG](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_Jqwn9qYgCAWH8HCE7_1746296925659_completion_certificate.pdf)** via Forage (May 2025)  
+- **[Software Engineering Simulation – Hewlett Packard Enterprise](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_Jqwn9qYgCAWH8HCE7_1710129458516_completion_certificate.pdf)** via Forage (Mar 2024)  
+- **[Strategic & Experience Design Simulation – BCG](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/WkzSp3gqQriGfpM7H_BCG_Jqwn9qYgCAWH8HCE7_1716767062800_completion_certificate.pdf)** via Forage (May 2024)  
+- **[Agile Methodology Simulation – Cognizant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant_Jqwn9qYgCAWH8HCE7_1709535315704_completion_certificate.pdf)** via Forage (Mar 2024)  
+
 
 
 ## 🤝 Lets Connect
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rajeshwari-bhirud">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
