@@ -24,29 +24,29 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast cur
 
 ### Recent Projects:
 
-[PantryPulse](https://pantry-tracker-system.vercel.app/)  :   ReactJs, Javascript, Firebase <br>
+- [PantryPulse](https://pantry-tracker-system.vercel.app/)  :   ReactJs, Javascript, Firebase <br>
 PantryPulse is a simple pantry tracking system that helps you manage your groceries efficiently. It is developed using ReactJS and Firebase, incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow by utilizing GitHub and Vercel.
 
-[FoodLoop](https://github.com/rajeshwarib22/Zero-Hunger-FoodLoop-Project) - UX Research, Site Maps, Whimsical, Figma, Landbot.io, Wizard of Oz experiement, Low-High Fidelity Prototyping<br>
-Foodloop is a mobile app project created to tackle food insecurity by connecting surplus food providers with individuals in need. It integrates chatbot assistance on landobot.io, food donation matching, secure user authentication, and interactive mapping of surplus donors. Built using tools like Whimsical, Landbot and Figma, the project went through detailed UX research, sitemap design for rival apps, Wizard of Oz experimentation, and both low- and high-fidelity prototyping to create an intuitive and impactful platform.
+- [FoodLoop](https://github.com/rajeshwarib22/Zero-Hunger-FoodLoop-Project) - UX Research, Site Maps, Whimsical, Figma, Landbot.io, Wizard of Oz experiement, Low-High Fidelity Prototyping<br>
+Foodloop is a mobile app project created to tackle food insecurity by connecting surplus food providers with individuals in need. It integrates chatbot assistance on landobot.io, food donation matching, secure user authentication, and interactive mapping of surplus donors. Built using tools like Whimsical, Landbot and Figma, the project went through detailed UX research, sitemap design for rival apps, Wizard of Oz experimentation, and both low and high fidelity prototyping to create an intuitive and impactful platform.
 
-[WholesomeBite](https://github.com/rajeshwarib22/WholesomeBite-UI-UX-project) – UI/UX Project, Design Thinking,  User Research,  User Interviews, Low-High Fidelity Prototyping, Usability Testing, Figma, MarvelApp, Miro<br>
+- [WholesomeBite](https://github.com/rajeshwarib22/WholesomeBite-UI-UX-project) – UI/UX Project, Design Thinking,  User Research,  User Interviews, Low-High Fidelity Prototyping, Usability Testing, Figma, MarvelApp, Miro<br>
 WholesomeBite is a user-centered mobile app project focused on promoting healthier eating habits through intuitive design. Built using structured UX processes and tools like Figma and MarvelApp, the project involved proposal creation, user research, persona development, wireframing, and usability testing. Key features include personalized meal planning, recipe discovery, nutrtion chart and shopping cart direct from receipe ingredients. The final high-fidelity prototype was used to get real user feedback to enhance usability and impact.
 
 
-[Inventory Management System](https://github.com/rajeshwarib22/InventoryManagementSystem)  : MySQL, SQL, MySQL Workbench <br>
+- [Inventory Management System](https://github.com/rajeshwarib22/InventoryManagementSystem)  : MySQL, SQL, MySQL Workbench <br>
 Inventory Management System is a basic database project to manage electronic product inventory efficiently. Built using MySQL and MySQL Workbench, it features ER modeling, relational schema design, and data manipulation through SQL queries. Data is imported via CSV, and queries are executed for stock analysis and monthly sales tracking.
 
 
 
 ### 💻 Tech Stack  
-**Languages:** Java, SQL, PL/SQL, JavaScript, Python,   
-**Frontend:** HTML, CSS, TailwindCSS, Bootstrap, AngularJS, ReactJS  
-**Backend:** Spring, Spring Boot, REST API, Firebase, Node.js
-**Database:** MySQL, Oracle, Firebase  
-**Version Control:** Git, GitHub, SVN Tortoise  
-**Tools & IDEs:** SQL Developer, Spring Tool Suite (STS), VS Code, Eclipse, Postman, MySQL Workbench, Figma, Anaconda
-**Architecture:** Microservices, CORS
+- **Languages:** Java, SQL, PL/SQL, JavaScript, Python,   
+- **Frontend:** HTML, CSS, TailwindCSS, Bootstrap, AngularJS, ReactJS  
+- **Backend:** Spring, Spring Boot, REST API, Firebase, Node.js
+- **Database:** MySQL, Oracle, Firebase  
+- **Version Control:** Git, GitHub, SVN Tortoise  
+- **Tools & IDEs:** SQL Developer, Spring Tool Suite (STS), VS Code, Eclipse, Postman, MySQL Workbench, Figma, Anaconda, Canva, Figma, Landbot.io, Miro, MySQL Workbench/CMD
+- **Architecture:** Microservices, CORS
 
 
 ### 🎓 Certifications
