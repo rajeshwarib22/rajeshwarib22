@@ -52,8 +52,6 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast cur
 - ⚡ Fun fact: I love working on innovative projects that blend AI, design, and engineering!
 
 
-## 📜 Certifications & Virtual Job Simulations
-
 ### 🎓 Certifications
 
 - **[Google Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/specialization/PNQ63CX6EZBJ)** – Google via Coursera (Oct 2024)  
