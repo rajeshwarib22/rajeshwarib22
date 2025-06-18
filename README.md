@@ -14,7 +14,7 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, UX/UI enthusiast and re
 - 🌱 I’m learning ReactJs, SpringBoot, Spring REST API, advanced UX/UI design principles and AI integration.
 - 👯 I’m looking to collaborate on open-source projects, UX/UI case studies, and full-stack applications.
 - 🤔 I'm focused on optimizing query performance and developing scalable, high-performance applications that deliver seamless and efficient user experiences.
-- 💬 Ask me about Java, MongoDB, UX research, or integrating OpenAI into products.
+- 💬 Ask me about Java, SQL, UX research, or integrating OpenAI into products.
 - 📫 How to reach me:
   [Email](mailto:rajeshwari.bhirud@gmail.com)   [LinkedIn](https://www.linkedin.com/in/rajeshwari-bhirud/)  [Portfolio](https://portfolio-rb-nu.vercel.app/)
 - 😄 Pronouns: She/Her/Hers
