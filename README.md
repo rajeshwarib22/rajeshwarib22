@@ -8,7 +8,7 @@
 
 ## 👋 Hello and thanks for visiting my [Github Profile](https://github.com/rajeshwarib22)
 
-I’m Rajeshwari Bhirud, a Full-Stack Software Engineer and UX/UI enthusiast currently pursuing my Master’s in Information Systems at Pace University (graduating May 2025). I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
+I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, UX/UI enthusiast and recent graduate of Master’s in Information Systems from Pace University. I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
 - 🔭 I’m currently working on a developing Full Stack Application.
 - 🌱  I’m learning ReactJs, SpringBoot, Spring REST API, and advanced UX/UI design principles.
@@ -30,7 +30,6 @@ Foodloop is a mobile app project created to tackle food insecurity by connecting
 
 - [WholesomeBite](https://github.com/rajeshwarib22/WholesomeBite-UI-UX-project) – UI/UX Project, Design Thinking,  User Research,  User Interviews, Low-High Fidelity Prototyping, Usability Testing, Figma, MarvelApp, Miro<br>
 WholesomeBite is a user-centered mobile app project focused on promoting healthier eating habits through intuitive design. Built using structured UX processes and tools like Figma and MarvelApp, the project involved proposal creation, user research, persona development, wireframing, and usability testing. Key features include personalized meal planning, recipe discovery, nutrtion chart and shopping cart direct from receipe ingredients. The final high-fidelity prototype was used to get real user feedback to enhance usability and impact.
-
 
 - [Inventory Management System](https://github.com/rajeshwarib22/InventoryManagementSystem)  : MySQL, SQL, MySQL Workbench <br>
 Inventory Management System is a basic database project to manage electronic product inventory efficiently. Built using MySQL and MySQL Workbench, it features ER modeling, relational schema design, and data manipulation through SQL queries. Data is imported via CSV, and queries are executed for stock analysis and monthly sales tracking.
