@@ -11,14 +11,14 @@
 I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, UX/UI enthusiast and recent graduate of Master’s in Information Systems from Pace University. I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
 - 🔭 I’m currently working on a developing Full Stack Application.
-- 🌱  I’m learning ReactJs, SpringBoot, Spring REST API, and advanced UX/UI design principles.
+- 🌱 I’m learning ReactJs, SpringBoot, Spring REST API, advanced UX/UI design principles and AI integration.
 - 👯 I’m looking to collaborate on open-source projects, UX/UI case studies, and full-stack applications.
-- 🤔 I’m looking for help with optimizing performance in Next.js and Firebase queries.
+- 🤔 I'm focused on optimizing query performance and developing scalable, high-performance applications that deliver seamless and efficient user experiences.
 - 💬 Ask me about Java, MongoDB, UX research, or integrating OpenAI into products.
 - 📫 How to reach me:
   [Email](mailto:rajeshwari.bhirud@gmail.com)   [LinkedIn](https://www.linkedin.com/in/rajeshwari-bhirud/)  [Portfolio](https://portfolio-rb-nu.vercel.app/)
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I love working on innovative projects that blend AI, design, and engineering!
+- ⚡ Fun fact: I love working on innovative projects that blend AI, design,problem solving and engineering!
 
 ### Recent Projects:
 
