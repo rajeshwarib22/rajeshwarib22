@@ -8,7 +8,7 @@
 
 ## 👋 Hello and thanks for visiting my [Github Profile](https://github.com/rajeshwarib22)
 
-I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, UX/UI enthusiast and recent graduate of Master’s in Information Systems from Pace University. I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
+I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, AI/ML enthusiast and recent graduate of Master’s in Information Systems from Pace University. I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
 - 🔭 I’m currently working on a developing Full Stack Application.
 - 🌱 I’m learning ReactJs, SpringBoot, Spring REST API, advanced UX/UI design principles and AI integration.
