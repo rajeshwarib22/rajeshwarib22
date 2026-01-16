@@ -10,7 +10,7 @@
 
 I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, AI/ML enthusiast, and recent graduate of a Master’s in Information Systems from Pace University. I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
-- 🔭 🔭 Currently: Building AI-powered applications integrating LLMs/RAG and machine learning models
+- 🔭 Currently: Building AI-powered applications integrating LLMs/RAG and machine learning models
 - 🌱 I’m learning ReactJS, SpringBoot, Spring REST API, advanced UX/UI design principles,  PyTorch, TensorFlow, LangChain, Vector Databases, MLOps, Generative AI, and AI integration.
 - 👯 I’m looking to collaborate on: AI/ML projects, GenAI applications, and open-source ML tools
 - 🤔 I'm focused on optimizing query performance and developing scalable, high-performance applications that deliver seamless and efficient user experiences.
