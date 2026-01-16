@@ -8,17 +8,23 @@
 
 ## 👋 Hello and thanks for visiting my [Github Profile](https://github.com/rajeshwarib22)
 
-I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, AI/ML enthusiast and recent graduate of Master’s in Information Systems from Pace University. I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
+I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, AI/ML enthusiast, and recent graduate of a Master’s in Information Systems from Pace University. I’m passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
-- 🔭 I’m currently working on developing a full-stack application.
-- 🌱 I’m learning ReactJS, SpringBoot, Spring REST API, advanced UX/UI design principles, and AI integration.
-- 👯 I’m looking to collaborate on open-source projects, UX/UI case studies, and full-stack applications.
+- 🔭 🔭 Currently: Building AI-powered applications integrating LLMs/RAG and machine learning models
+- 🌱 I’m learning ReactJS, SpringBoot, Spring REST API, advanced UX/UI design principles,  PyTorch, TensorFlow, LangChain, Vector Databases, MLOps, Generative AI, and AI integration.
+- 👯 I’m looking to collaborate on: AI/ML projects, GenAI applications, and open-source ML tools
 - 🤔 I'm focused on optimizing query performance and developing scalable, high-performance applications that deliver seamless and efficient user experiences.
-- 💬 Ask me about Java, SQL, UX research, or integrating OpenAI into products.
+- 💬 Ask me about: Machine Learning, GenAI integration, Python, Java, or full-stack AI applications
 - 📫 How to reach me:
   [Email](mailto:rajeshwari.bhirud@gmail.com)   [LinkedIn](https://www.linkedin.com/in/rajeshwari-bhirud/)  [Portfolio](https://portfolio-rb-nu.vercel.app/)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love working on innovative projects that blend AI, design, problem-solving, and engineering!
+
+- - 
+- 🌱 Learning: PyTorch, TensorFlow, LangChain, Vector Databases, MLOps, and Generative AI
+- 👯 Looking to collaborate on: AI/ML projects, GenAI applications, and open-source ML tools
+- 🤔 Focused on: Building scalable ML pipelines and deploying production-ready AI solutions
+- 💬 Ask me about: Machine Learning, GenAI integration, Python, Java, or full-stack AI applications
 
 ### Recent Projects:
 
@@ -45,6 +51,9 @@ Inventory Management System is a basic database project to manage electronic pro
 - **Tools & IDEs:** SQL Developer, Spring Tool Suite (STS), VS Code, Eclipse, Postman, MySQL Workbench, Figma, Anaconda, Canva, Landbot.io, Miro, MySQL Workbench/CMD, WordPress
 - **Architecture:** Microservices, CORS
 - **Cloud:** GCP, AWS
+- **AI/ML:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, NLTK, spaCy
+- **Data & Analytics:** Jupyter Notebook, Matplotlib, Seaborn, Plotly
+- **MLOps:** Docker, MLflow, GitHub Actions
 
 
 ### 🎓 Certifications
