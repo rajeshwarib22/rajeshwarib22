@@ -19,8 +19,6 @@ I’m Rajeshwari Bhirud, a Full-Stack Software Engineer, AI/ML enthusiast, and r
   [Email](mailto:rajeshwari.bhirud@gmail.com)   [LinkedIn](https://www.linkedin.com/in/rajeshwari-bhirud/)  [Portfolio](https://portfolio-rb-nu.vercel.app/)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love working on innovative projects that blend AI, design, problem-solving, and engineering!
-
-- - 
 - 🌱 Learning: PyTorch, TensorFlow, LangChain, Vector Databases, MLOps, and Generative AI
 - 👯 Looking to collaborate on: AI/ML projects, GenAI applications, and open-source ML tools
 - 🤔 Focused on: Building scalable ML pipelines and deploying production-ready AI solutions
