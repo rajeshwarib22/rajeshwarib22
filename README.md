@@ -6,8 +6,6 @@
 
 ## 👋 Hello and thanks for visiting my [Github Profile](https://github.com/rajeshwarib22)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 I'm Rajeshwari Bhirud, a Full-Stack Software Engineer, AI/ML enthusiast, and recent graduate of a Master's in Information Systems from Pace University. I'm passionate about building impactful digital experiences and enjoy working with Java, SpringBoot, REST API, ReactJS, SQL, PL/SQL, Firebase, and UX/UI design.
 
 - 🔭 Currently: Building AI-powered applications integrating LLMs/RAG and machine learning models
