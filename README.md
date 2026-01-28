@@ -130,8 +130,6 @@ Cloud & Testing
 </p>
 </td>
 <td width="50%" align="center">  
-👩‍💻 Building Innovative Solutions
-
 <img src="https://github-readme-stats.vercel.app/api?username=rajeshwarib22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshwarib22&theme=tokyonight&hide_border=true" width="100%" />
