@@ -129,9 +129,8 @@ Cloud & Testing
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 </td>
-<td width="50%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="200" />
-  👩‍💻 Building Innovative Solutions
+<td width="50%" align="center">  
+👩‍💻 Building Innovative Solutions
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajeshwarib22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
 
