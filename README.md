@@ -120,6 +120,7 @@ DevOps & Tools
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 Cloud & Testing
 <p>
@@ -127,6 +128,18 @@ Cloud & Testing
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+  Design & Prototyping
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucidchart-F96604?style=for-the-badge&logo=lucidchart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whimsical-7B61FF?style=for-the-badge&logo=whimsical&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Marvel-ED1D24?style=for-the-badge&logo=marvel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Landbot.io-00D4AA?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/FotoJet-FF6B35?style=for-the-badge&logoColor=white" />
 </p>
 </td>
 <td width="50%" align="center">  
