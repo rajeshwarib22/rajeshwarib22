@@ -26,12 +26,30 @@ I'm Rajeshwari Bhirud, a Full-Stack Software Engineer, AI/ML enthusiast, and rec
 
 <table>
 <tr>
+  <td width="50%">
+
+### 🥗 [Know Your Nutrients – AI NutriMind](https://github.com/rajeshwarib22)
+**Tech:** Python, FastAPI, PostgreSQL, ChromaDB, LLaMA 3.2, RAG
+
+AI-powered nutrition assistant built on a RAG pipeline using ChromaDB for vector search and LLaMA 3.2, achieving sub-500ms latency across 900+ records with 95%+ accuracy. Features a modular, fault-tolerant architecture with monitoring hooks for latency and retrieval quality, aligned with SRE observability principles.
+
+</td>
+<td width="50%">
+
+### 🃏 [DummyDodo – AI Flashcard Generator](https://github.com/rajeshwarib22/FlashcardGenerator)
+**Tech:** React-Vite, JavaScript, Python, FastAPI, Groq API(llama-3.1-8b-instant), Supabase, Railway
+
+AI-powered study tool that transforms any PDF into interactive flashcards. Features intelligent flashcard generation, progress tracking with detailed statistics, and requires no sign-up for instant results. Built for students who want smarter, faster study sessions.
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📦 [PantryPulse](https://pantry-tracker-system.vercel.app/)
 **Tech:** ReactJs, Javascript, Firebase
 
-PantryPulse is a simple pantry tracking system that helps you manage your groceries efficiently. It is developed using ReactJS and Firebase, incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow by utilizing GitHub and Vercel, providing live data insights by category and expiration dates for last, current, and next month.
+PantryPulse is a simple pantry tracking system that helps you manage your groceries efficiently. It is developed using ReactJS and Firebase, incorporating FirebaseAuth for user authentication. It manages its CI/CD workflow using GitHub and Vercel, providing live data insights by category and expiration dates for last, current, and next month.
 
 </td>
 <td width="50%">
